@@ -1,0 +1,13 @@
+.col-md-5 img {
+    width: 100%;
+}
+
+p, img {
+    margin-bottom: 3rem;
+}
+
+#member-title {
+    color: #212529;
+    transition: all 1.3s;
+    font-weight: 600;
+}
